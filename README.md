@@ -27,7 +27,7 @@ Feel free to dive into any of them! 🚀
 ---
 
 ## 🤝 Connect with Me
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/patrick-rachford-07/
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/patrick-rachford-07/)
 - **Medium**: [https://medium.com/@patford12](https://medium.com/@patford12)
 
 ---
