@@ -21,7 +21,7 @@ Feel free to dive into any of them! 🚀
 | 🎉 [loyalty-points-project-python](https://github.com/rachfop/loyalty-points-project-python) | Loyalty Management, Amplified with Temporal & Flask | Build and manage loyalty programs with Temporal SDK and Flask. |
 | 📖 [temporal-sagas](https://github.com/rachfop/temporal-sagas) | Achieving Atomic Long-Running Processes with Sagas | Learn about the Saga protocol and handle vacation bookings atomically. |
 | 📊 [data-pipeline](https://github.com/rachfop/data-pipeline) | Automated Hacker News Digest with a Temporal Touch | Construct a data pipeline to fetch and process top Hacker News stories. |
-| 🛒 [shopping-cart](https://github.com/rachfop/shopping-cart) | Redefining Cart Management | (Description not provided) |
+| 🛒 [shopping-cart](https://github.com/rachfop/shopping-cart) | Redefining Cart Management | Manage a shopping cart experience with Temporal. |
 | 💡 [temporal-openai](https://github.com/rachfop/temporal-openai) | Chatting the Future: Temporal Meets OpenAI | Engage users with a Temporal & OpenAI-powered chatbot in Flask. |
 
 ---
