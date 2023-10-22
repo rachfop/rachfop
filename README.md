@@ -25,7 +25,6 @@ Feel free to dive into any of them! 🚀
 | 💡 [temporal-openai](https://github.com/rachfop/temporal-openai) | Chatting the Future: Temporal Meets OpenAI | Engage users with a Temporal & OpenAI-powered chatbot in Flask. |
 | 🗄️ [temporal-sqlalchemy](https://github.com/rachfop/temporal-sqlalchemy) | Database Workflows Simplified with Temporal & SQLAlchemy | Showcase the use of Temporal with SQLAlchemy for handling database operations within activities. |
 
-I've added the `temporal-sqlalchemy` repository to the table, using the emoji 🗄️ (which signifies databases) and a brief description based on the content you've provided before.
 ---
 
 ## 🤝 Connect with Me
