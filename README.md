@@ -24,7 +24,7 @@ Feel free to dive into any of them! 🚀
 | 📊 [data-pipeline](https://github.com/rachfop/data-pipeline) | Construct a data pipeline to fetch and process top Hacker News stories. |
 | 🛒 [shopping-cart](https://github.com/rachfop/shopping-cart) | Manage a shopping cart experience with Temporal. |
 | 💡 [temporal-openai](https://github.com/rachfop/temporal-openai) | Engage users with a Temporal & OpenAI-powered chatbot in Flask. |
-| 🗄️ [temporal-sqlalchemy](https://github.com/rachfop/temporal-sqlalchemy) | Showcase the use of Temporal with SQLAlchemy for handling database operations within activities. |
+| 🗄️ [temporal-todo-app](https://github.com/rachfop/temporal-todo-app) | Flask handling web requests and Temporal managing workflows, create a robust ToDo app. |
 
 ---
 
