@@ -10,6 +10,7 @@ Feel free to dive into any of them! 🚀
 
 | Repository | Description |
 |------------|-------------|
+| 💬 [Telegram AI bot](https://github.com/rachfop/ai-chatbot) | A Temporal Workflow that manages a Telegram bot and an AI response, trained on Temporal documentation |
 | 🛠 [activity-options-config](https://github.com/rachfop/activity-options-config) | Manage Temporal activity options using external configurations for cleaner code. |
 | 🌐 [temporal-litestar](https://github.com/rachfop/temporal-litestar) | Integrate Temporal Workflow Engine with Litestar web framework for direct web workflow executions. |
 | 🚀 [flyte-hello-world](https://github.com/rachfop/flyte-hello-world) | Dive into Flytekit basics with a simple Python SDK workflow demo. |
